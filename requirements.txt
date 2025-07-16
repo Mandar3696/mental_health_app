@@ -3,3 +3,7 @@ plotly
 pandas
 scikit-learn
 nltk
+matplotlib
+seaborn
+wordcloud
+fpdf
